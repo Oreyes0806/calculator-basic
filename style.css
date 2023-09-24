@@ -1,0 +1,18 @@
+ /* Estilos para el botón de despliegue */
+ #toggleButton {
+  cursor: pointer;
+  background-color: #007BFF;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Estilos para la calculadora oculta */
+#calculator {
+  display: none;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
